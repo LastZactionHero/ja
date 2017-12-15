@@ -1,0 +1,2062 @@
+[
+  {
+    "english": "living creatures",
+    "phonetic": "いきもの",
+    "kanji": "生き物",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "monster",
+    "phonetic": "ばけもの",
+    "kanji": "化け物",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "animal",
+    "phonetic": "どうぶつ",
+    "kanji": "動物",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "cheetah",
+    "phonetic": "チーター",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "dog",
+    "phonetic": "いぬ",
+    "kanji": "犬",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "cat",
+    "phonetic": "ねこ",
+    "kanji": "猫",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "cow",
+    "phonetic": "うし",
+    "kanji": "牛",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "pig",
+    "phonetic": "ぶた",
+    "kanji": "豚",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "horse",
+    "phonetic": "うま",
+    "kanji": "馬",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "sheep",
+    "phonetic": "ひつじ",
+    "kanji": "羊",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "monkey",
+    "phonetic": "さる",
+    "kanji": "猿",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "mouse",
+    "phonetic": "ねずみ",
+    "kanji": "鼠",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "tiger",
+    "phonetic": "とら",
+    "kanji": "虎",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "wolf",
+    "phonetic": "オオカミ",
+    "kanji": "狼",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "rabbit",
+    "phonetic": "うさぎ",
+    "kanji": "兎",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "deer",
+    "phonetic": "しか",
+    "kanji": "鹿",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "toad",
+    "phonetic": "がま",
+    "kanji": "蟇",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "lion",
+    "phonetic": "しし",
+    "kanji": "獅子",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "giraffe",
+    "phonetic": "キリン",
+    "kanji": "麒麟",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "elephant",
+    "phonetic": "ぞう",
+    "kanji": "象",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "bird",
+    "phonetic": "とり",
+    "kanji": "鳥",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "chicken",
+    "phonetic": "にわとり",
+    "kanji": "鶏",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "sparrow",
+    "phonetic": "すずめ",
+    "kanji": "雀",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "crow",
+    "phonetic": "からす",
+    "kanji": "烏",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "eagle",
+    "phonetic": "わし",
+    "kanji": "鷲",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "hawk",
+    "phonetic": "たか",
+    "kanji": "鷹",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "fish",
+    "phonetic": "さかな",
+    "kanji": "魚",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "red snapper",
+    "phonetic": "たい",
+    "kanji": "鯛",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "shrimp",
+    "phonetic": "えび",
+    "kanji": "海老",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "sardine",
+    "phonetic": "いわし",
+    "kanji": "鰯",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "tuna",
+    "phonetic": "まぐろ",
+    "kanji": "鮪",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "pike",
+    "phonetic": "さんま",
+    "kanji": "秋刀魚",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "mackerel",
+    "phonetic": "さば",
+    "kanji": "鯖",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "squid",
+    "phonetic": "イカ",
+    "kanji": "烏賊",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": null,
+    "phonetic": null,
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "insect",
+    "phonetic": "むし",
+    "kanji": "虫",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "butterfly",
+    "phonetic": "ちょう",
+    "kanji": "蝶",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "moth",
+    "phonetic": "ガ",
+    "kanji": "蛾",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "cicada",
+    "phonetic": "せみ",
+    "kanji": "蝉",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "dragonfly",
+    "phonetic": "トンボ",
+    "kanji": "蜻蛉",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "grasshopper",
+    "phonetic": "バッタ",
+    "kanji": "飛蝗",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "spider",
+    "phonetic": "クモ",
+    "kanji": "蜘蛛",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "firefly",
+    "phonetic": "ホタル",
+    "kanji": "蛍",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": null,
+    "phonetic": null,
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "mosquito",
+    "phonetic": "カ",
+    "kanji": "蚊",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "cockroach",
+    "phonetic": "ゴキブリ",
+    "kanji": "蜚蠊",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "snail",
+    "phonetic": "カタツムリ",
+    "kanji": "蝸牛",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "slug",
+    "phonetic": "ナメクジ",
+    "kanji": "蛞蝓",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "earthworm",
+    "phonetic": "ミミズ",
+    "kanji": "蚯蚓",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "shellfish",
+    "phonetic": "かい",
+    "kanji": "貝",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "shell",
+    "phonetic": "かいがら",
+    "kanji": "貝殻",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "lizard",
+    "phonetic": "トカゲ",
+    "kanji": "蜥蜴",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "snake",
+    "phonetic": "へび",
+    "kanji": "蛇",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "human",
+    "phonetic": "にんげん",
+    "kanji": "人間",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "humanity",
+    "phonetic": "じんるい",
+    "kanji": "人類",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "person",
+    "phonetic": "ひと",
+    "kanji": "人",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "male",
+    "phonetic": "おとこ",
+    "kanji": "男",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "man",
+    "phonetic": "おとこのひと",
+    "kanji": "男の人",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "boy",
+    "phonetic": "おとこのこ",
+    "kanji": "男の子",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "female",
+    "phonetic": "おんな",
+    "kanji": "女",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "woman",
+    "phonetic": "おんなのひと",
+    "kanji": "女の人",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "girl",
+    "phonetic": "おんなのこ",
+    "kanji": "女の子",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "baby",
+    "phonetic": "あかちゃん",
+    "kanji": "赤ちゃん",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "color",
+    "phonetic": "いろ",
+    "kanji": "色",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "red",
+    "phonetic": "あか",
+    "kanji": "赤",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "yellow",
+    "phonetic": "きいろ",
+    "kanji": "黄色",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "green",
+    "phonetic": "みどり",
+    "kanji": "緑",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "blue",
+    "phonetic": "あお",
+    "kanji": "青",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "purple",
+    "phonetic": "むらさき",
+    "kanji": "紫",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "white",
+    "phonetic": "しろ",
+    "kanji": "白",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "black",
+    "phonetic": "くろ",
+    "kanji": "黒",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "pink",
+    "phonetic": "ピンク",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "brown",
+    "phonetic": "ちゃいろ",
+    "kanji": "茶色",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": null,
+    "phonetic": null,
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "orange",
+    "phonetic": "オレンジ",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "foot",
+    "phonetic": "あし",
+    "kanji": "足",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "leg",
+    "phonetic": "あし",
+    "kanji": "脚",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "heel",
+    "phonetic": "かかと",
+    "kanji": "踵",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "shin",
+    "phonetic": "すね",
+    "kanji": "脛",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "knee",
+    "phonetic": "ひざ",
+    "kanji": "膝",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "thigh",
+    "phonetic": "もも",
+    "kanji": "腿",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "head",
+    "phonetic": "あたま",
+    "kanji": "頭",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "face",
+    "phonetic": "かお",
+    "kanji": "顔",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "mouth",
+    "phonetic": "くち",
+    "kanji": "口",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "lips",
+    "phonetic": "くちびる",
+    "kanji": "唇",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "tooth",
+    "phonetic": "は",
+    "kanji": "歯",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "nose",
+    "phonetic": "はな",
+    "kanji": "鼻",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "eye",
+    "phonetic": "め",
+    "kanji": "目",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "beard",
+    "phonetic": "ひげ",
+    "kanji": "髭",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "hair",
+    "phonetic": "かみ",
+    "kanji": "髪",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "ear",
+    "phonetic": "みみ",
+    "kanji": "耳",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "stomach",
+    "phonetic": "い",
+    "kanji": "胃",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "arm",
+    "phonetic": "うで",
+    "kanji": "腕",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "elbow",
+    "phonetic": "ひじ",
+    "kanji": "肘",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "shoulder",
+    "phonetic": "かた",
+    "kanji": "肩",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "nail",
+    "phonetic": "つめ",
+    "kanji": "爪",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "hand",
+    "phonetic": "て",
+    "kanji": "手",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "wrist",
+    "phonetic": "てくび",
+    "kanji": "手首",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "palm of hand",
+    "phonetic": "てのひら",
+    "kanji": "掌",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "finger",
+    "phonetic": "ゆび",
+    "kanji": "指",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "liver",
+    "phonetic": "きも",
+    "kanji": "肝",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "muscle",
+    "phonetic": "きんにく",
+    "kanji": "筋肉",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "neck",
+    "phonetic": "くび",
+    "kanji": "首",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "family",
+    "phonetic": "かぞく",
+    "kanji": "家族",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "parents",
+    "phonetic": "りょうしん",
+    "kanji": "両親",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": null,
+    "phonetic": null,
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "father",
+    "phonetic": "ちち",
+    "kanji": "父",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "mother",
+    "phonetic": "はは",
+    "kanji": "母",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "wife",
+    "phonetic": "つま",
+    "kanji": "妻",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "husband",
+    "phonetic": "おっと",
+    "kanji": "夫",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "older brother",
+    "phonetic": "あに",
+    "kanji": "兄",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "older sister",
+    "phonetic": "あね",
+    "kanji": "姉",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "younger brother",
+    "phonetic": "おとうと",
+    "kanji": "弟",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "younger sister",
+    "phonetic": "いもうと",
+    "kanji": "妹",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "brothers",
+    "phonetic": "きょうだい",
+    "kanji": "兄弟",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "sisters",
+    "phonetic": "しまい",
+    "kanji": "姉妹",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "grandfather",
+    "phonetic": "そふ",
+    "kanji": "祖父",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "grandmother",
+    "phonetic": "そぼ",
+    "kanji": "祖母",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "grandchild",
+    "phonetic": "まご",
+    "kanji": "孫",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "uncle",
+    "phonetic": "おじ",
+    "kanji": "叔父",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "aunt",
+    "phonetic": "おば",
+    "kanji": "叔母",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "niece",
+    "phonetic": "めい",
+    "kanji": "姪",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "nephew",
+    "phonetic": "おい",
+    "kanji": "甥",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "weather",
+    "phonetic": "てんき",
+    "kanji": "天気",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "clear weather",
+    "phonetic": "はれ",
+    "kanji": "晴れ",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "rain",
+    "phonetic": "あめ",
+    "kanji": "雨",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "cloudy",
+    "phonetic": "くもり",
+    "kanji": "曇り",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "snow",
+    "phonetic": "ゆき",
+    "kanji": "雪",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "wind",
+    "phonetic": "かぜ",
+    "kanji": "風",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": null,
+    "phonetic": null,
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "typhoon",
+    "phonetic": "たいふう",
+    "kanji": "台風",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "storm",
+    "phonetic": "あらし",
+    "kanji": "嵐",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "sky",
+    "phonetic": "そら",
+    "kanji": "空",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "student",
+    "phonetic": "がくせい",
+    "kanji": "学生",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "friend",
+    "phonetic": "ともだち",
+    "kanji": "友達",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "healthy",
+    "phonetic": "げんき",
+    "kanji": "元気",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "yes casual",
+    "phonetic": "うん",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "tomorrow",
+    "phonetic": "あした",
+    "kanji": "明日",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "no casual",
+    "phonetic": "ううん",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "today",
+    "phonetic": "きょう",
+    "kanji": "今日",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "exam",
+    "phonetic": "しけん",
+    "kanji": "試験",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "who",
+    "phonetic": "だれ",
+    "kanji": "誰",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "me",
+    "phonetic": "わたし",
+    "kanji": "私",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "money",
+    "phonetic": "おかね",
+    "kanji": "お金",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "distasteful",
+    "phonetic": "きらい",
+    "kanji": "嫌い",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "food",
+    "phonetic": "たべもの",
+    "kanji": "食べ物",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "tasty",
+    "phonetic": "おいしい",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "tall",
+    "phonetic": "たかい",
+    "kanji": "高い",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to think",
+    "phonetic": "かんがえる",
+    "kanji": "考える",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to teach; to inform",
+    "phonetic": "おしえる",
+    "kanji": "教える",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to come out",
+    "phonetic": "でる",
+    "kanji": "出る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to exist animate",
+    "phonetic": "いる",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to wear",
+    "phonetic": "きる",
+    "kanji": "着る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to speak",
+    "phonetic": "はなす",
+    "kanji": "話す",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to ask; to listen",
+    "phonetic": "きく",
+    "kanji": "聞く",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to swim",
+    "phonetic": "およぐ",
+    "kanji": "泳ぐ",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to play",
+    "phonetic": "あそぶ",
+    "kanji": "遊ぶ",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to wait",
+    "phonetic": "まつ",
+    "kanji": "待つ",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to drink",
+    "phonetic": "のむ",
+    "kanji": "飲む",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to buy",
+    "phonetic": "かう",
+    "kanji": "買う",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to exist inanimate",
+    "phonetic": "ある",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to die",
+    "phonetic": "しぬ",
+    "kanji": "死ぬ",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to do",
+    "phonetic": "する",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to come",
+    "phonetic": "くる",
+    "kanji": "来る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "quiet",
+    "phonetic": "しずか",
+    "kanji": "静か",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "pretty; clean",
+    "phonetic": "きれい",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "kind",
+    "phonetic": "しんせつ",
+    "kanji": "親切",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "likable",
+    "phonetic": "すき",
+    "kanji": "好き",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "meat",
+    "phonetic": "にく",
+    "kanji": "肉",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "vegetables",
+    "phonetic": "やさい",
+    "kanji": "野菜",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "building",
+    "phonetic": "ビル",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "price",
+    "phonetic": "ねだん",
+    "kanji": "値段",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "restaurant",
+    "phonetic": "レストラン",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "not very",
+    "phonetic": "あまり",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "not very neg",
+    "phonetic": "あんまり",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "good",
+    "phonetic": "いい",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "he; boyfriend",
+    "phonetic": "かれ",
+    "kanji": "彼",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "cool; handsome",
+    "phonetic": "かっこいい",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to eat",
+    "phonetic": "たべる",
+    "kanji": "食べる",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to understand",
+    "phonetic": "わかる",
+    "kanji": "分かる",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to see",
+    "phonetic": "みる",
+    "kanji": "見る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to sleep",
+    "phonetic": "ねる",
+    "kanji": "寝る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to wake; to occur",
+    "phonetic": "おきる",
+    "kanji": "起きる",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to need",
+    "phonetic": "いる",
+    "kanji": "要る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to go home",
+    "phonetic": "かえる",
+    "kanji": "帰る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to cut",
+    "phonetic": "きる",
+    "kanji": "切る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to talk",
+    "phonetic": "しゃべる",
+    "kanji": null,
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to know",
+    "phonetic": "しる",
+    "kanji": "知る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to enter",
+    "phonetic": "はいる",
+    "kanji": "入る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to run",
+    "phonetic": "はしる",
+    "kanji": "走る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to decrease",
+    "phonetic": "へる",
+    "kanji": "減る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to be in a hurry",
+    "phonetic": "あせる",
+    "kanji": "焦る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to limit",
+    "phonetic": "かぎる",
+    "kanji": "限る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to kick",
+    "phonetic": "ける",
+    "kanji": "蹴る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to be slippery",
+    "phonetic": "すべる",
+    "kanji": "滑る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to grasp",
+    "phonetic": "にぎる",
+    "kanji": "握る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to knead",
+    "phonetic": "ねる",
+    "kanji": "練る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to go; to come",
+    "phonetic": "まいる",
+    "kanji": "参る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to mingle",
+    "phonetic": "まじる",
+    "kanji": "交じる",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to ridicule",
+    "phonetic": "あざける",
+    "kanji": "嘲る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to overturn",
+    "phonetic": "くつがえる",
+    "kanji": "覆る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to interrupt",
+    "phonetic": "さえぎる",
+    "kanji": "遮る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to abuse verbally",
+    "phonetic": "ののしる",
+    "kanji": "罵る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to twist",
+    "phonetic": "ひねる",
+    "kanji": "捻る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to turn over; to wave",
+    "phonetic": "ひるがえる",
+    "kanji": "翻る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to feel depressed",
+    "phonetic": "めいる",
+    "kanji": "滅入る",
+    "part_of_speech": null,
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  }
+]

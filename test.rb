@@ -1,5 +1,5 @@
 require 'optparse'
-require 'csv'
+require 'json'
 require 'pry'
 require './trial'
 
@@ -23,37 +23,28 @@ OptionParser.new do |opts|
   end
 end.parse!
 
-@filename = "./word_lists/#{word_list_name}.csv"
-WORD_COUNT = 1000
+@filename = "./word_lists_json/#{word_list_name}.json"
 
 include Trial
 
 class Word
-  attr_accessor :hiragana, :kanji, :english, :raw
-  def initialize(h, k, e, raw)
+  attr_accessor :hiragana, :kanji, :english
+  def initialize(h, k, e)
     @hiragana = h
     @kanji = k
     @english = e
-    @raw = raw
   end
 end
 
 def init_test
-  lines = CSV.read(@filename, "r")
-  lines = lines.first(WORD_COUNT)
+  content = File.read(@filename)
+  json = JSON.parse(content)
 
-  @words = []
-
-  # Parse words with Hiragana, Kanji, and English
-  lines.select { |l| l.length == 3 }.each do |line|
-    @words.push(
-      Word.new(line[0], line[1], line[2], line)
-    )
-  end
-  # Parse words with Hiragana and English
-  lines.select { |l| l.length == 2 }.each do |line|
-    @words.push(
-      Word.new(line[0], nil, line[1], line)
+  @words = json.map do |json_word|
+    Word.new(
+      json_word['phonetic'],
+      json_word['kanji'],
+      json_word['english']
     )
   end
 
