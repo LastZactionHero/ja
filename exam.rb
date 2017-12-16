@@ -1,20 +1,29 @@
 require 'ruby-progressbar'
 
-module Trial
-  VOICE_NAME_JA = 'Kyoko'.freeze
-  progressbar = nil
+class Exam
+  attr_reader :direction, :activity, :words
 
-  # Progressive Learning
-  def start_test(direction, activity)
+  VOICE_NAME_JA = 'Kyoko'.freeze
+  #@progressbar = nil
+
+  def initialize(direction, activity, words)
+    @direction = direction
+    @activity = activity
+    @words = words
+
+    @incorrect = []
+    @no_mistakes = true
+    @trials = []
+  end
+
+  def run
     if activity == :learning
       Kernel.loop do
         if @no_mistakes
           new_trial = @words.sample
           break unless new_trial
 
-          puts new_trial.hiragana.to_s
-          puts new_trial.kanji.to_s
-          puts new_trial.english.to_s
+          puts new_trial.to_s
           say_ja(new_trial.hiragana)
 
           @trials << new_trial
@@ -41,6 +50,8 @@ module Trial
     else
       raise ArgumentError
     end
+
+    @incorrect
   end
 
   def print_progress_bar(activity, trial_idx)
@@ -97,10 +108,7 @@ module Trial
       @incorrect << trial
 
       puts 'Incorrect!'
-      puts trial.hiragana.to_s
-      puts trial.kanji.to_s
-      puts trial.english.to_s
-
+      puts trial.to_s
       say_ja(trial.hiragana)
       $stdin.gets
     end
