@@ -1,31 +1,31 @@
 [
   {
-    "english": "restaurant",
-    "phonetic": "レストラン",
-    "kanji": null,
-    "part_of_speech": null,
-    "subclass": null,
+    "english": "to limit",
+    "phonetic": "かぎる",
+    "kanji": "限る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
     "conjugations": [
 
     ]
   },
   {
-    "english": "orange",
-    "phonetic": "オレンジ",
-    "kanji": null,
-    "part_of_speech": null,
-    "subclass": null,
-    "conjugations": [
+    "english": "high-speed",
+    "phonetic": "こうそく",
+    "kanji": "高速",
+    "part_of_speech": "adjective",
+    "subclass": "na-adjective",
+    "conjucations": [
 
     ]
   },
   {
-    "english": "yellow",
-    "phonetic": "きいろ",
-    "kanji": "黄色",
-    "part_of_speech": null,
+    "english": "study",
+    "phonetic": "べんきょう",
+    "kanji": "勉強",
+    "part_of_speech": "noun",
     "subclass": null,
-    "conjugations": [
+    "conjucations": [
 
     ]
   }

@@ -1,0 +1,142 @@
+[
+  {
+    "english": "to be resurrected",
+    "phonetic": "よみがえる",
+    "kanji": "蘇る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to write",
+    "phonetic": "かく",
+    "kanji": "書く",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to go",
+    "phonetic": "いく",
+    "kanji": "行く",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to run",
+    "phonetic": "はしる",
+    "kanji": "走る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "study",
+    "kanji": "勉強",
+    "phonetic": "べんきょう",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to throw away",
+    "phonetic": "すてる",
+    "kanji": "捨てる",
+    "part_of_speech": "verb",
+    "subclass": "ru-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "juice",
+    "phonetic": "ジュース",
+    "kanji": null,
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "wandering; aimlessly",
+    "phonetic": "ぶらぶら",
+    "kanji": null,
+    "part_of_speech": "adverb",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to walk",
+    "phonetic": "あるく",
+    "kanji": "歩く",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "high-speed",
+    "phonetic": "こうそく",
+    "kanji": "高速",
+    "part_of_speech": "adjective",
+    "subclass": "na-adjective",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "route",
+    "phonetic": "どうろ",
+    "kanji": "道路",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "everyday",
+    "phonetic": "まいにち",
+    "kanji": "毎日",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "Japanese language",
+    "phonetic": "にほんご",
+    "kanji": "日本語",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "email address",
+    "phonetic": "メールアドレス",
+    "kanji": null,
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  }
+]

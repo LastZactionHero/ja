@@ -1,0 +1,162 @@
+[
+  {
+    "english": "to limit",
+    "phonetic": "かぎる",
+    "kanji": "限る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to go",
+    "phonetic": "いく",
+    "kanji": "行く",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "route",
+    "phonetic": "どうろ",
+    "kanji": "道路",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to buy",
+    "phonetic": "かう",
+    "kanji": "買う",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "yellow",
+    "phonetic": "きいろ",
+    "kanji": "黄色",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to mingle",
+    "phonetic": "まじる",
+    "kanji": "交じる",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "high-speed",
+    "phonetic": "こうそく",
+    "kanji": "高速",
+    "part_of_speech": "adjective",
+    "subclass": "na-adjective",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "head",
+    "phonetic": "あたま",
+    "kanji": "頭",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "student",
+    "phonetic": "がくせい",
+    "kanji": "学生",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "dragonfly",
+    "phonetic": "トンボ",
+    "kanji": "蜻蛉",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to throw away",
+    "phonetic": "すてる",
+    "kanji": "捨てる",
+    "part_of_speech": "verb",
+    "subclass": "ru-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to walk",
+    "phonetic": "あるく",
+    "kanji": "歩く",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "Japanese language",
+    "phonetic": "にほんご",
+    "kanji": "日本語",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to turn over; to wave",
+    "phonetic": "ひるがえる",
+    "kanji": "翻る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "mouse",
+    "phonetic": "ねずみ",
+    "kanji": "鼠",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to come",
+    "phonetic": "くる",
+    "kanji": "来る",
+    "part_of_speech": "verb",
+    "subclass": "exception",
+    "conjugations": [
+
+    ]
+  }
+]
