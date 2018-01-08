@@ -119,6 +119,6 @@ class Exam
   end
 
   def say_ja(text)
-    `say -v #{VOICE_NAME_JA} --quality=127 #{text}`
+    #`say -v #{VOICE_NAME_JA} --quality=127 #{text}`
   end
 end

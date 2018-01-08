@@ -1,332 +1,42 @@
-[
-  {
-    "english": "to limit",
-    "phonetic": "かぎる",
-    "kanji": "限る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
+掃く
+to clean; to brush; to sweep
+godan verb with ku ending
+くはく
 
-    ]
-  },
-  {
-    "english": "to go",
-    "phonetic": "いく",
-    "kanji": "行く",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjucations": [
+litterbox
+リターボックス
 
-    ]
-  },
-  {
-    "english": "route",
-    "phonetic": "どうろ",
-    "kanji": "道路",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjucations": [
 
-    ]
-  },
-  {
-    "english": "to buy",
-    "phonetic": "かう",
-    "kanji": "買う",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
+修繕
+しゅうぜん
+repair; mending
+Noun, Suru verb
 
-    ]
-  },
-  {
-    "english": "yellow",
-    "phonetic": "きいろ",
-    "kanji": "黄色",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
+自転車
+じてんしゃ
+bicycle
+noun
 
-    ]
-  },
-  {
-    "english": "to mingle",
-    "phonetic": "まじる",
-    "kanji": "交じる",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
+輪止め
+わどめ
+breaks
+noun
 
-    ]
-  },
-  {
-    "english": "high-speed",
-    "phonetic": "こうそく",
-    "kanji": "高速",
-    "part_of_speech": "adjective",
-    "subclass": "na-adjective",
-    "conjucations": [
 
-    ]
-  },
-  {
-    "english": "head",
-    "phonetic": "あたま",
-    "kanji": "頭",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
+温水器
+おんすいき
+water heater
+noun
 
-    ]
-  },
-  {
-    "english": "student",
-    "phonetic": "がくせい",
-    "kanji": "学生",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
+見積り価格
+みつもかかく
+quote; estimated price
+noun
 
-    ]
-  },
-  {
-    "english": "dragonfly",
-    "phonetic": "トンボ",
-    "kanji": "蜻蛉",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
 
-    ]
-  },
-  {
-    "english": "to throw away",
-    "phonetic": "すてる",
-    "kanji": "捨てる",
-    "part_of_speech": "verb",
-    "subclass": "ru-verb",
-    "conjucations": [
+得る
+える
+to get
+ichidan verb
+transitive verb
 
-    ]
-  },
-  {
-    "english": "to walk",
-    "phonetic": "あるく",
-    "kanji": "歩く",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "Japanese language",
-    "phonetic": "にほんご",
-    "kanji": "日本語",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "to turn over; to wave",
-    "phonetic": "ひるがえる",
-    "kanji": "翻る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "mouse",
-    "phonetic": "ねずみ",
-    "kanji": "鼠",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to come",
-    "phonetic": "くる",
-    "kanji": "来る",
-    "part_of_speech": "verb",
-    "subclass": "exception",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "blue",
-    "phonetic": "あお",
-    "kanji": "青",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "eagle",
-    "phonetic": "わし",
-    "kanji": "鷲",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "human",
-    "phonetic": "にんげん",
-    "kanji": "人間",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to kick",
-    "phonetic": "ける",
-    "kanji": "蹴る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "vegetables",
-    "phonetic": "やさい",
-    "kanji": "野菜",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "study",
-    "phonetic": "べんきょう",
-    "kanji": "勉強",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "animal",
-    "phonetic": "どうぶつ",
-    "kanji": "動物",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "slug",
-    "phonetic": "ナメクジ",
-    "kanji": "蛞蝓",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "heel",
-    "phonetic": "かかと",
-    "kanji": "踵",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "butterfly",
-    "phonetic": "ちょう",
-    "kanji": "蝶",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to grasp",
-    "phonetic": "にぎる",
-    "kanji": "握る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "monster",
-    "phonetic": "ばけもの",
-    "kanji": "化け物",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to knead",
-    "phonetic": "ねる",
-    "kanji": "練る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to speak",
-    "phonetic": "はなす",
-    "kanji": "話す",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "mackerel",
-    "phonetic": "さば",
-    "kanji": "鯖",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "cloudy",
-    "phonetic": "くもり",
-    "kanji": "曇り",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to wake; to occur",
-    "phonetic": "おきる",
-    "kanji": "起きる",
-    "part_of_speech": "verb",
-    "subclass": "ru-verb",
-    "conjugations": [
-
-    ]
-  }
-]
