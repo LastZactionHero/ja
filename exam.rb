@@ -1,4 +1,5 @@
 require 'ruby-progressbar'
+require 'os'
 
 class Exam
   attr_reader :direction, :activity, :words
@@ -119,6 +120,6 @@ class Exam
   end
 
   def say_ja(text)
-    #`say -v #{VOICE_NAME_JA} --quality=127 #{text}`
+    `say -v #{VOICE_NAME_JA} --quality=127 #{text}` if OS.mac?
   end
 end
