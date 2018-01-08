@@ -1,0 +1,142 @@
+[
+  {
+    "english": "to play",
+    "phonetic": "あそぶ",
+    "kanji": "遊ぶ",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "wrist",
+    "phonetic": "てくび",
+    "kanji": "手首",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "tuna",
+    "phonetic": "まぐろ",
+    "kanji": "鮪",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "thigh",
+    "phonetic": "もも",
+    "kanji": "腿",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "lizard",
+    "phonetic": "トカゲ",
+    "kanji": "蜥蜴",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "beard",
+    "phonetic": "ひげ",
+    "kanji": "髭",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to go; to come",
+    "phonetic": "まいる",
+    "kanji": "参る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "price",
+    "phonetic": "ねだん",
+    "kanji": "値段",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to know",
+    "phonetic": "しる",
+    "kanji": "知る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to throw away",
+    "phonetic": "すてる",
+    "kanji": "捨てる",
+    "part_of_speech": "verb",
+    "subclass": "ru-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to teach; to inform",
+    "phonetic": "おしえる",
+    "kanji": "教える",
+    "part_of_speech": "verb",
+    "subclass": "ru-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "quiet",
+    "phonetic": "しずか",
+    "kanji": "静か",
+    "part_of_speech": null,
+    "subclass": "na-adjective",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "study",
+    "phonetic": "べんきょう",
+    "kanji": "勉強",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to come",
+    "phonetic": "くる",
+    "kanji": "来る",
+    "part_of_speech": "verb",
+    "subclass": "exception",
+    "conjugations": [
+
+    ]
+  }
+]

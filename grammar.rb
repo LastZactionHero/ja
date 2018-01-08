@@ -1,9 +1,11 @@
 require 'optparse'
 require './word_list'
+require './grammar/rule'
 require './grammar/rule_da_declaration'
 require './grammar/rule_da_past_declaration'
 require './grammar/rule_da_negative_declaration'
 require './grammar/rule_da_past_negative_declaration'
+require './grammar/rule_particle_topic'
 
 direction = nil
 
@@ -32,20 +34,21 @@ word_list = WordList.load_from_file(filename)
 while true
   # Select a rule
   rules = [
-    DaDeclaration,
-    DaPastDeclaration,
-    DaNegativeDeclaration,
-    DaPastNegativeDeclaration
+    #DaDeclaration,
+    #DaPastDeclaration,
+    #DaNegativeDeclaration,
+    #DaPastNegativeDeclaration,
+    ParticleTopic
   ]
   rule = rules.sample.new
 
   # Filter the word list to those allowed by the rule
-  word_list = word_list.filter_by_rule(rule.word_filter)
-  word = word_list.words.sample
+  filtered_word_list = word_list.filter_by_rule(rule.word_filter)
+  words = filtered_word_list.words.sample(rule.word_count)
 
   # Generate an English sentence using the rule
   # Generate a Japanese sentence using the rule
-  sentence_pair = rule.apply(word)
+  sentence_pair = rule.apply(*words)
 
   # Request Japanese translation
   question = direction == :en_to_ja ? sentence_pair.english : sentence_pair.japanese

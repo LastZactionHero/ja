@@ -1,4 +1,4 @@
-class DaDeclaration
+class DaDeclaration < Rule
   # Attached to noun or na-adjective to make a declarative statement.
   # Not necessary, makes sentence more declarative or masculine.
 

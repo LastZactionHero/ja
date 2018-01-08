@@ -1,4 +1,4 @@
-class DaNegativeDeclaration
+class DaNegativeDeclaration < Rule
   def word_filter
     [
       { part_of_speech: :noun },

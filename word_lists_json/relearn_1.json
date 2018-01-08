@@ -1,21 +1,11 @@
 [
   {
-    "english": "to limit",
-    "phonetic": "かぎる",
-    "kanji": "限る",
+    "english": "to interrupt",
+    "phonetic": "さえぎる",
+    "kanji": "遮る",
     "part_of_speech": "verb",
     "subclass": "u-verb",
     "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to go",
-    "phonetic": "いく",
-    "kanji": "行く",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjucations": [
 
     ]
   },
@@ -30,19 +20,9 @@
     ]
   },
   {
-    "english": "to buy",
-    "phonetic": "かう",
-    "kanji": "買う",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "yellow",
-    "phonetic": "きいろ",
-    "kanji": "黄色",
+    "english": "brothers",
+    "phonetic": "きょうだい",
+    "kanji": "兄弟",
     "part_of_speech": "noun",
     "subclass": null,
     "conjugations": [
@@ -50,11 +30,51 @@
     ]
   },
   {
-    "english": "to mingle",
-    "phonetic": "まじる",
-    "kanji": "交じる",
+    "english": "to write",
+    "phonetic": "かく",
+    "kanji": "書く",
     "part_of_speech": "verb",
     "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "who",
+    "phonetic": "だれ",
+    "kanji": "誰",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to be resurrected",
+    "phonetic": "よみがえる",
+    "kanji": "蘇る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to need",
+    "phonetic": "いる",
+    "kanji": "要る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "firefly",
+    "phonetic": "ホタル",
+    "kanji": "蛍",
+    "part_of_speech": "noun",
+    "subclass": null,
     "conjugations": [
 
     ]
@@ -70,9 +90,9 @@
     ]
   },
   {
-    "english": "head",
-    "phonetic": "あたま",
-    "kanji": "頭",
+    "english": "exam",
+    "phonetic": "しけん",
+    "kanji": "試験",
     "part_of_speech": "noun",
     "subclass": null,
     "conjugations": [
@@ -80,59 +100,9 @@
     ]
   },
   {
-    "english": "student",
-    "phonetic": "がくせい",
-    "kanji": "学生",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "dragonfly",
-    "phonetic": "トンボ",
-    "kanji": "蜻蛉",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to throw away",
-    "phonetic": "すてる",
-    "kanji": "捨てる",
-    "part_of_speech": "verb",
-    "subclass": "ru-verb",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "to walk",
-    "phonetic": "あるく",
-    "kanji": "歩く",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "Japanese language",
-    "phonetic": "にほんご",
-    "kanji": "日本語",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "to turn over; to wave",
-    "phonetic": "ひるがえる",
-    "kanji": "翻る",
+    "english": "to enter",
+    "phonetic": "はいる",
+    "kanji": "入る",
     "part_of_speech": "verb",
     "subclass": "u-verb",
     "conjugations": [
@@ -140,21 +110,11 @@
     ]
   },
   {
-    "english": "mouse",
-    "phonetic": "ねずみ",
-    "kanji": "鼠",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to come",
-    "phonetic": "くる",
-    "kanji": "来る",
-    "part_of_speech": "verb",
-    "subclass": "exception",
+    "english": "kind",
+    "phonetic": "しんせつ",
+    "kanji": "親切",
+    "part_of_speech": "adjective",
+    "subclass": "na-adjective",
     "conjugations": [
 
     ]

@@ -1,4 +1,4 @@
-class DaPastNegativeDeclaration
+class DaPastNegativeDeclaration < Rule
 
   def word_filter
     [
