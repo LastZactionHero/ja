@@ -35,10 +35,10 @@ while true
   # Select a rule
   rules = [
     #DaDeclaration,
-    #DaPastDeclaration,
-    #DaNegativeDeclaration,
-    #DaPastNegativeDeclaration,
-    ParticleTopic
+    DaPastDeclaration,
+    DaNegativeDeclaration,
+    DaPastNegativeDeclaration,
+    #ParticleTopic
   ]
   rule = rules.sample.new
 
