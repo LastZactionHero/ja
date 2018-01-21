@@ -1,4 +1,7 @@
+require './grammar/single_word_selection'
+
 class ParticleTopic < Rule
+  include SingleWordSelection
 
   def word_filter
     [
@@ -10,7 +13,7 @@ class ParticleTopic < Rule
     2
   end
 
-  def apply(word_a, word_b)
+  def sentence_pair(word_list)
     english = "Topic of #{word_a.english}, #{word_b.english}."
     japanese = "#{word_a.japanese}は#{word_b.japanese}。"
 

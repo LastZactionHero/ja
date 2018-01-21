@@ -1,4 +1,8 @@
+require './grammar/single_word_selection'
+
 class DaNegativeDeclaration < Rule
+  include SingleWordSelection
+
   def word_filter
     [
       { part_of_speech: :noun },
@@ -6,7 +10,7 @@ class DaNegativeDeclaration < Rule
     ]
   end
 
-  def apply(word)
+  def sentence_pair(word_list)
     english = "Not #{word.english}."
     japanese = "#{word.japanese}じゃない。"
 

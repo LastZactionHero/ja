@@ -1,4 +1,8 @@
+require './grammar/single_word_selection'
+
 class DaDeclaration < Rule
+  include SingleWordSelection
+
   # Attached to noun or na-adjective to make a declarative statement.
   # Not necessary, makes sentence more declarative or masculine.
 
@@ -9,7 +13,9 @@ class DaDeclaration < Rule
     ]
   end
 
-  def apply(word)
+  def sentence_pair(word_list)
+    word = select_word(word_list)
+
     english = "Is #{word.english}."
     japanese = "#{word.japanese}だ。"
 

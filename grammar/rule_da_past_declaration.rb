@@ -1,4 +1,7 @@
+require './grammar/single_word_selection'
+
 class DaPastDeclaration < Rule
+  include SingleWordSelection
 
   def word_filter
     [
@@ -7,7 +10,7 @@ class DaPastDeclaration < Rule
     ]
   end
 
-  def apply(word)
+  def sentence_pair(word_list)
     english = "Was #{word.english}."
     japanese = "#{word.japanese}だった。"
 
