@@ -1,0 +1,112 @@
+[
+  {
+    "english": "wife",
+    "phonetic": "つま",
+    "kanji": "妻",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "study",
+    "phonetic": "べんきょう",
+    "kanji": "勉強",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "not very neg",
+    "phonetic": "あんまり",
+    "kanji": null,
+    "part_of_speech": "adjective",
+    "subclass": "na-adjective",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to knead",
+    "phonetic": "ねる",
+    "kanji": "練る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to wake; to occur",
+    "phonetic": "おきる",
+    "kanji": "起きる",
+    "part_of_speech": "verb",
+    "subclass": "ru-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "earthworm",
+    "phonetic": "ミミズ",
+    "kanji": "蚯蚓",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to interrupt",
+    "phonetic": "さえぎる",
+    "kanji": "遮る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "brown",
+    "phonetic": "ちゃいろ",
+    "kanji": "茶色",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to go; to come",
+    "phonetic": "まいる",
+    "kanji": "参る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "animal",
+    "phonetic": "どうぶつ",
+    "kanji": "動物",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "likable",
+    "phonetic": "すき",
+    "kanji": "好き",
+    "part_of_speech": "adjective",
+    "subclass": "na-adjective",
+    "conjugations": [
+
+    ]
+  }
+]
