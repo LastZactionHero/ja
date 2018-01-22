@@ -1,128 +1,168 @@
 [
   {
-    "english": "to interrupt",
-    "phonetic": "さえぎる",
-    "kanji": "遮る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "route",
-    "phonetic": "どうろ",
-    "kanji": "道路",
+    "english": "day counter",
+    "phonetic": "にち",
+    "kanji": "日",
     "part_of_speech": "noun",
-    "subclass": null,
+    "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "brothers",
-    "phonetic": "きょうだい",
-    "kanji": "兄弟",
+    "english": "one",
+    "phonetic": "いち",
+    "kanji": "一",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "year counter",
+    "phonetic": "とし",
+    "kanji": "年",
     "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to write",
-    "phonetic": "かく",
-    "kanji": "書く",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
+    "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "who",
-    "phonetic": "だれ",
-    "kanji": "誰",
+    "english": "large",
+    "phonetic": "だい",
+    "kanji": "大",
+    "part_of_speech": "prefix",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "ten",
+    "phonetic": "じゅう",
+    "kanji": "十",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "two",
+    "phonetic": "に",
+    "kanji": "二",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "book",
+    "phonetic": "ほん",
+    "kanji": "本",
     "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to be resurrected",
-    "phonetic": "よみがえる",
-    "kanji": "蘇る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
+    "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "to need",
-    "phonetic": "いる",
-    "kanji": "要る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "firefly",
-    "phonetic": "ホタル",
-    "kanji": "蛍",
+    "english": "inside",
+    "phonetic": "なか",
+    "kanji": "中",
     "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "high-speed",
-    "phonetic": "こうそく",
-    "kanji": "高速",
-    "part_of_speech": "adjective",
-    "subclass": "na-adjective",
+    "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "exam",
-    "phonetic": "しけん",
-    "kanji": "試験",
+    "english": "coming out",
+    "phonetic": "で",
+    "kanji": "出",
     "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
+    "subclass": "",
+    "conjucations": [
 
     ]
   },
   {
-    "english": "to enter",
-    "phonetic": "はいる",
-    "kanji": "入る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
+    "english": "three",
+    "phonetic": "さん",
+    "kanji": "三",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
 
     ]
   },
   {
-    "english": "kind",
-    "phonetic": "しんせつ",
-    "kanji": "親切",
-    "part_of_speech": "adjective",
-    "subclass": "na-adjective",
-    "conjugations": [
+    "english": "month",
+    "phonetic": "つき",
+    "kanji": "月",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
 
     ]
   },
   {
-    "english": "to walk",
-    "phonetic": "あるく",
-    "kanji": "歩く",
+    "english": "life",
+    "phonetic": "せい",
+    "kanji": "生",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "five",
+    "phonetic": "ご",
+    "kanji": "五",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "above",
+    "phonetic": "うえ",
+    "kanji": "上",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "force",
+    "phonetic": "ちから",
+    "kanji": "力",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "nine",
+    "phonetic": "きゅう",
+    "kanji": "九",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to stand",
+    "phonetic": "たつ",
+    "kanji": "立つ",
     "part_of_speech": "verb",
     "subclass": "u-verb",
     "conjucations": [
@@ -130,69 +170,9 @@
     ]
   },
   {
-    "english": "to come out",
-    "phonetic": "でる",
-    "kanji": "出る",
-    "part_of_speech": "verb",
-    "subclass": "ru-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to go",
-    "phonetic": "いく",
-    "kanji": "行く",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "to overturn",
-    "phonetic": "くつがえる",
-    "kanji": "覆る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to wear",
-    "phonetic": "きる",
-    "kanji": "着る",
-    "part_of_speech": "verb",
-    "subclass": "ru-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to understand",
-    "phonetic": "わかる",
-    "kanji": "分かる",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to limit",
-    "phonetic": "かぎる",
-    "kanji": "限る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "he; boyfriend",
-    "phonetic": "かれ",
-    "kanji": "彼",
+    "english": "family",
+    "phonetic": "かぞく",
+    "kanji": "家族",
     "part_of_speech": "noun",
     "subclass": null,
     "conjugations": [
@@ -200,38 +180,8 @@
     ]
   },
   {
-    "english": "to be in a hurry",
-    "phonetic": "あせる",
-    "kanji": "焦る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "cool; handsome",
-    "phonetic": "かっこいい",
-    "kanji": null,
-    "part_of_speech": "adjective",
-    "subclass": "i-adjective",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to go home",
-    "phonetic": "かえる",
-    "kanji": "帰る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to talk",
-    "phonetic": "しゃべる",
+    "english": "to exist inanimate",
+    "phonetic": "ある",
     "kanji": null,
     "part_of_speech": "verb",
     "subclass": "u-verb",
@@ -240,79 +190,9 @@
     ]
   },
   {
-    "english": "to play",
-    "phonetic": "あそぶ",
-    "kanji": "遊ぶ",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "wrist",
-    "phonetic": "てくび",
-    "kanji": "手首",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "tuna",
-    "phonetic": "まぐろ",
-    "kanji": "鮪",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "thigh",
-    "phonetic": "もも",
-    "kanji": "腿",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "lizard",
-    "phonetic": "トカゲ",
-    "kanji": "蜥蜴",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "beard",
-    "phonetic": "ひげ",
-    "kanji": "髭",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to go; to come",
-    "phonetic": "まいる",
-    "kanji": "参る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "price",
-    "phonetic": "ねだん",
-    "kanji": "値段",
+    "english": "younger brother",
+    "phonetic": "おとうと",
+    "kanji": "弟",
     "part_of_speech": "noun",
     "subclass": null,
     "conjugations": [
@@ -330,31 +210,151 @@
     ]
   },
   {
-    "english": "to throw away",
-    "phonetic": "すてる",
-    "kanji": "捨てる",
-    "part_of_speech": "verb",
-    "subclass": "ru-verb",
-    "conjucations": [
+    "english": "shell",
+    "phonetic": "かいがら",
+    "kanji": "貝殻",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
 
     ]
   },
   {
-    "english": "to teach; to inform",
-    "phonetic": "おしえる",
-    "kanji": "教える",
-    "part_of_speech": "verb",
+    "english": "to think",
+    "phonetic": "かんがえる",
+    "kanji": "考える",
+    "part_of_speech": "noun",
     "subclass": "ru-verb",
     "conjugations": [
 
     ]
   },
   {
-    "english": "quiet",
-    "phonetic": "しずか",
-    "kanji": "静か",
-    "part_of_speech": null,
-    "subclass": "na-adjective",
+    "english": "dragonfly",
+    "phonetic": "トンボ",
+    "kanji": "蜻蛉",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "he; boyfriend",
+    "phonetic": "かれ",
+    "kanji": "彼",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to swim",
+    "phonetic": "およぐ",
+    "kanji": "泳ぐ",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to twist",
+    "phonetic": "ひねる",
+    "kanji": "捻る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "everyday",
+    "phonetic": "まいにち",
+    "kanji": "毎日",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to go home",
+    "phonetic": "かえる",
+    "kanji": "帰る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "wandering; aimlessly",
+    "phonetic": "ぶらぶら",
+    "kanji": null,
+    "part_of_speech": "adverb",
+    "subclass": null,
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "exam",
+    "phonetic": "しけん",
+    "kanji": "試験",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "sardine",
+    "phonetic": "いわし",
+    "kanji": "鰯",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "thigh",
+    "phonetic": "もも",
+    "kanji": "腿",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "eagle",
+    "phonetic": "わし",
+    "kanji": "鷲",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "firefly",
+    "phonetic": "ホタル",
+    "kanji": "蛍",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "wife",
+    "phonetic": "つま",
+    "kanji": "妻",
+    "part_of_speech": "noun",
+    "subclass": null,
     "conjugations": [
 
     ]
@@ -370,11 +370,91 @@
     ]
   },
   {
-    "english": "to come",
-    "phonetic": "くる",
-    "kanji": "来る",
+    "english": "not very neg",
+    "phonetic": "あんまり",
+    "kanji": null,
+    "part_of_speech": "adjective",
+    "subclass": "na-adjective",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to knead",
+    "phonetic": "ねる",
+    "kanji": "練る",
     "part_of_speech": "verb",
-    "subclass": "exception",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to wake; to occur",
+    "phonetic": "おきる",
+    "kanji": "起きる",
+    "part_of_speech": "verb",
+    "subclass": "ru-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "earthworm",
+    "phonetic": "ミミズ",
+    "kanji": "蚯蚓",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to interrupt",
+    "phonetic": "さえぎる",
+    "kanji": "遮る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "brown",
+    "phonetic": "ちゃいろ",
+    "kanji": "茶色",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to go; to come",
+    "phonetic": "まいる",
+    "kanji": "参る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "animal",
+    "phonetic": "どうぶつ",
+    "kanji": "動物",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "likable",
+    "phonetic": "すき",
+    "kanji": "好き",
+    "part_of_speech": "adjective",
+    "subclass": "na-adjective",
     "conjugations": [
 
     ]
