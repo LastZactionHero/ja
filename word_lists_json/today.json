@@ -1,42 +1,162 @@
-掃く
-to clean; to brush; to sweep
-godan verb with ku ending
-くはく
+[
+  {
+    "english": "study",
+    "phonetic": "ガク",
+    "kanji": "学",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
 
-litterbox
-リターボックス
+    ]
+  },
+  {
+    "english": "rice field",
+    "phonetic": "た",
+    "kanji": "田",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
 
+    ]
+  },
+  {
+    "english": "エン",
+    "phonetic": "s",
+    "kanji": "s",
+    "part_of_speech": "s",
+    "subclass": "s",
+    "conjucations": [
 
-修繕
-しゅうぜん
-repair; mending
-Noun, Suru verb
+    ]
+  },
+  {
+    "english": "circle",
+    "phonetic": "エン",
+    "kanji": "円",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
 
-自転車
-じてんしゃ
-bicycle
-noun
+    ]
+  },
+  {
+    "english": "child",
+    "phonetic": "こ",
+    "kanji": "子",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
 
-輪止め
-わどめ
-breaks
-noun
+    ]
+  },
+  {
+    "english": "eight",
+    "phonetic": "はち",
+    "kanji": "八",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
 
+    ]
+  },
+  {
+    "english": "six",
+    "phonetic": "ろく",
+    "kanji": "六",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
 
-温水器
-おんすいき
-water heater
-noun
+    ]
+  },
+  {
+    "english": "below",
+    "phonetic": "した",
+    "kanji": "下",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
 
-見積り価格
-みつもかかく
-quote; estimated price
-noun
+    ]
+  },
+  {
+    "english": "correct",
+    "phonetic": "まさ",
+    "kanji": "正",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
 
+    ]
+  },
+  {
+    "english": "spirit",
+    "phonetic": "キ",
+    "kanji": "気",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
 
-得る
-える
-to get
-ichidan verb
-transitive verb
+    ]
+  },
+  {
+    "english": "little",
+    "phonetic": "こ",
+    "kanji": "小",
+    "part_of_speech": "prefix",
+    "subclass": "",
+    "conjucations": [
 
+    ]
+  },
+  {
+    "english": "seven",
+    "phonetic": "しち",
+    "kanji": "七",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "mountain",
+    "phonetic": "やま",
+    "kanji": "山",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "sentence",
+    "phonetic": "ブン",
+    "kanji": "文",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "hundred",
+    "phonetic": "ひゃく",
+    "kanji": "百",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "stone",
+    "phonetic": "いし",
+    "kanji": "石",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  }
+]
