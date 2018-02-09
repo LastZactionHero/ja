@@ -1,149 +1,159 @@
 [
   {
-    "english": "study",
-    "phonetic": "ガク",
-    "kanji": "学",
-    "part_of_speech": "noun",
+    "english": "before",
+    "phonetic": "さき",
+    "kanji": "先",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "rice field",
-    "phonetic": "た",
-    "kanji": "田",
-    "part_of_speech": "noun",
+    "english": "name",
+    "phonetic": "な",
+    "kanji": "名",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "circle",
-    "phonetic": "エン",
-    "kanji": "円",
-    "part_of_speech": "noun",
+    "english": "stream",
+    "phonetic": "かわ",
+    "kanji": "川",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "child",
-    "phonetic": "こ",
-    "kanji": "子",
-    "part_of_speech": "noun",
+    "english": "village",
+    "phonetic": "むら",
+    "kanji": "村",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "eight",
-    "phonetic": "はち",
-    "kanji": "八",
-    "part_of_speech": "numeric",
+    "english": "thousand",
+    "phonetic": "セン",
+    "kanji": "千",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "six",
-    "phonetic": "ろく",
-    "kanji": "六",
-    "part_of_speech": "numeric",
+    "english": "town",
+    "phonetic": "まち",
+    "kanji": "町",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "below",
-    "phonetic": "した",
-    "kanji": "下",
-    "part_of_speech": "noun",
+    "english": "water",
+    "phonetic": "みず",
+    "kanji": "水",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "correct",
-    "phonetic": "まさ",
-    "kanji": "正",
-    "part_of_speech": "noun",
+    "english": "school",
+    "phonetic": "コウ",
+    "kanji": "校",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "spirit",
-    "phonetic": "キ",
-    "kanji": "気",
-    "part_of_speech": "noun",
+    "english": "bamboo",
+    "phonetic": "たけ",
+    "kanji": "竹",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "little",
-    "phonetic": "こ",
-    "kanji": "小",
-    "part_of_speech": "prefix",
+    "english": "early; fast",
+    "phonetic": "はや",
+    "kanji": "早",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "seven",
-    "phonetic": "しち",
-    "kanji": "七",
-    "part_of_speech": "numeric",
+    "english": "ground; earth",
+    "phonetic": "つち",
+    "kanji": "土",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "mountain",
-    "phonetic": "やま",
-    "kanji": "山",
-    "part_of_speech": "noun",
+    "english": "tree; wood",
+    "phonetic": "き",
+    "kanji": "木",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "sentence",
-    "phonetic": "ブン",
-    "kanji": "文",
-    "part_of_speech": "noun",
+    "english": "car",
+    "phonetic": "くるま",
+    "kanji": "車",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "hundred",
-    "phonetic": "ひゃく",
-    "kanji": "百",
-    "part_of_speech": "numeric",
+    "english": "king",
+    "phonetic": "オウ",
+    "kanji": "王",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "stone",
-    "phonetic": "いし",
-    "kanji": "石",
-    "part_of_speech": "noun",
+    "english": "character",
+    "phonetic": "ジ",
+    "kanji": "字",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "sound",
+    "phonetic": "おと",
+    "kanji": "音",
+    "part_of_speech": "",
     "subclass": "",
     "conjucations": [
 

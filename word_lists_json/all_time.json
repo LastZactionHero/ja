@@ -2148,5 +2148,525 @@
     "conjucations": [
 
     ]
+  },
+  {
+    "english": "photograph",
+    "phonetic": "しゃしん",
+    "kanji": "写真",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to send",
+    "phonetic": "おくる",
+    "kanji": "送る",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "competition",
+    "phonetic": "きょうそう",
+    "kanji": "競争",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to win",
+    "phonetic": "かつ",
+    "kanji": "勝つ",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "study; learning",
+    "phonetic": "ガク",
+    "kanji": "学",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "rice field",
+    "phonetic": "た",
+    "kanji": "田",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "circle",
+    "phonetic": "エン",
+    "kanji": "円",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "child",
+    "phonetic": "こ",
+    "kanji": "子",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "eight",
+    "phonetic": "はち",
+    "kanji": "八",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "six",
+    "phonetic": "ろく",
+    "kanji": "六",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "below",
+    "phonetic": "した",
+    "kanji": "下",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "correct",
+    "phonetic": "まさ",
+    "kanji": "正",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "spirit",
+    "phonetic": "キ",
+    "kanji": "気",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "little",
+    "phonetic": "こ",
+    "kanji": "小",
+    "part_of_speech": "prefix",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "seven",
+    "phonetic": "しち",
+    "kanji": "七",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "mountain",
+    "phonetic": "やま",
+    "kanji": "山",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "sentence",
+    "phonetic": "ブン",
+    "kanji": "文",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "hundred",
+    "phonetic": "ひゃく",
+    "kanji": "百",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "stone",
+    "phonetic": "いし",
+    "kanji": "石",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "day counter",
+    "phonetic": "にち",
+    "kanji": "日",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "one",
+    "phonetic": "いち",
+    "kanji": "一",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "year counter",
+    "phonetic": "とし",
+    "kanji": "年",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "large",
+    "phonetic": "だい",
+    "kanji": "大",
+    "part_of_speech": "prefix",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "ten",
+    "phonetic": "じゅう",
+    "kanji": "十",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "two",
+    "phonetic": "に",
+    "kanji": "二",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "book",
+    "phonetic": "ほん",
+    "kanji": "本",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "inside",
+    "phonetic": "なか",
+    "kanji": "中",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "coming out",
+    "phonetic": "で",
+    "kanji": "出",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "three",
+    "phonetic": "さん",
+    "kanji": "三",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "month; moon",
+    "phonetic": "つき",
+    "kanji": "月",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "life",
+    "phonetic": "せい",
+    "kanji": "生",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "five",
+    "phonetic": "ご",
+    "kanji": "五",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "above",
+    "phonetic": "うえ",
+    "kanji": "上",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "force",
+    "phonetic": "ちから",
+    "kanji": "力",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "nine",
+    "phonetic": "きゅう",
+    "kanji": "九",
+    "part_of_speech": "numeric",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to stand",
+    "phonetic": "たつ",
+    "kanji": "立つ",
+    "part_of_speech": "verb",
+    "subclass": "u-verb",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "before",
+    "phonetic": "さき",
+    "kanji": "先",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "name",
+    "phonetic": "な",
+    "kanji": "名",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "stream",
+    "phonetic": "かわ",
+    "kanji": "川",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "village",
+    "phonetic": "むら",
+    "kanji": "村",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "thousand",
+    "phonetic": "セン",
+    "kanji": "千",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "town",
+    "phonetic": "まち",
+    "kanji": "町",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "water",
+    "phonetic": "みず",
+    "kanji": "水",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "school",
+    "phonetic": "コウ",
+    "kanji": "校",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "bamboo",
+    "phonetic": "たけ",
+    "kanji": "竹",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "early; fast",
+    "phonetic": "はや",
+    "kanji": "早",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "ground; earth",
+    "phonetic": "つち",
+    "kanji": "土",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "tree; wood",
+    "phonetic": "き",
+    "kanji": "木",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "car",
+    "phonetic": "くるま",
+    "kanji": "車",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "king",
+    "phonetic": "オウ",
+    "kanji": "王",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "character",
+    "phonetic": "ジ",
+    "kanji": "字",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "sound",
+    "phonetic": "おと",
+    "kanji": "音",
+    "part_of_speech": "",
+    "subclass": "",
+    "conjucations": [
+
+    ]
   }
 ]

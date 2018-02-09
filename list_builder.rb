@@ -16,18 +16,18 @@ while true
   puts "Phonetic"
   phonetic = gets.strip
 
-  puts "Part of Speech"
-  pos = gets.strip
+  # puts "Part of Speech"
+  # pos = gets.strip
 
-  puts "Subclass"
-  subclass = gets.strip
+  # puts "Subclass"
+  # subclass = gets.strip
 
   word = {
     "english" => english,
     "phonetic" => phonetic,
     "kanji" => kanji,
-    "part_of_speech" => pos,
-    "subclass" => subclass,
+    "part_of_speech" => '',
+    "subclass" => '',
     "conjucations"=> []
   }
   words << word

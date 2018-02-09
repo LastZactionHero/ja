@@ -1,18 +1,8 @@
 [
   {
-    "english": "day counter",
-    "phonetic": "にち",
-    "kanji": "日",
-    "part_of_speech": "noun",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "one",
-    "phonetic": "いち",
-    "kanji": "一",
+    "english": "hundred",
+    "phonetic": "ひゃく",
+    "kanji": "百",
     "part_of_speech": "numeric",
     "subclass": "",
     "conjucations": [
@@ -20,159 +10,9 @@
     ]
   },
   {
-    "english": "year counter",
-    "phonetic": "とし",
-    "kanji": "年",
-    "part_of_speech": "noun",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "large",
-    "phonetic": "だい",
-    "kanji": "大",
-    "part_of_speech": "prefix",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "ten",
-    "phonetic": "じゅう",
-    "kanji": "十",
-    "part_of_speech": "numeric",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "two",
-    "phonetic": "に",
-    "kanji": "二",
-    "part_of_speech": "numeric",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "book",
-    "phonetic": "ほん",
-    "kanji": "本",
-    "part_of_speech": "noun",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "inside",
-    "phonetic": "なか",
-    "kanji": "中",
-    "part_of_speech": "noun",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "coming out",
-    "phonetic": "で",
-    "kanji": "出",
-    "part_of_speech": "noun",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "three",
-    "phonetic": "さん",
-    "kanji": "三",
-    "part_of_speech": "numeric",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "month",
-    "phonetic": "つき",
-    "kanji": "月",
-    "part_of_speech": "noun",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "life",
-    "phonetic": "せい",
-    "kanji": "生",
-    "part_of_speech": "noun",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "five",
-    "phonetic": "ご",
-    "kanji": "五",
-    "part_of_speech": "numeric",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "above",
-    "phonetic": "うえ",
-    "kanji": "上",
-    "part_of_speech": "noun",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "force",
-    "phonetic": "ちから",
-    "kanji": "力",
-    "part_of_speech": "noun",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "nine",
-    "phonetic": "きゅう",
-    "kanji": "九",
-    "part_of_speech": "numeric",
-    "subclass": "",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "to stand",
-    "phonetic": "たつ",
-    "kanji": "立つ",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjucations": [
-
-    ]
-  },
-  {
-    "english": "family",
-    "phonetic": "かぞく",
-    "kanji": "家族",
+    "english": "yellow",
+    "phonetic": "きいろ",
+    "kanji": "黄色",
     "part_of_speech": "noun",
     "subclass": null,
     "conjugations": [
@@ -180,9 +20,49 @@
     ]
   },
   {
-    "english": "to exist inanimate",
-    "phonetic": "ある",
-    "kanji": null,
+    "english": "eye",
+    "phonetic": "め",
+    "kanji": "目",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "niece",
+    "phonetic": "めい",
+    "kanji": "姪",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "girl",
+    "phonetic": "おんなのこ",
+    "kanji": "女の子",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "circle",
+    "phonetic": "エン",
+    "kanji": "円",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "to limit",
+    "phonetic": "かぎる",
+    "kanji": "限る",
     "part_of_speech": "verb",
     "subclass": "u-verb",
     "conjugations": [
@@ -190,119 +70,39 @@
     ]
   },
   {
-    "english": "younger brother",
-    "phonetic": "おとうと",
-    "kanji": "弟",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to know",
-    "phonetic": "しる",
-    "kanji": "知る",
+    "english": "to win",
+    "phonetic": "かつ",
+    "kanji": "勝つ",
     "part_of_speech": "verb",
     "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "shell",
-    "phonetic": "かいがら",
-    "kanji": "貝殻",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to think",
-    "phonetic": "かんがえる",
-    "kanji": "考える",
-    "part_of_speech": "noun",
-    "subclass": "ru-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "dragonfly",
-    "phonetic": "トンボ",
-    "kanji": "蜻蛉",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "he; boyfriend",
-    "phonetic": "かれ",
-    "kanji": "彼",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to swim",
-    "phonetic": "およぐ",
-    "kanji": "泳ぐ",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to twist",
-    "phonetic": "ひねる",
-    "kanji": "捻る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "everyday",
-    "phonetic": "まいにち",
-    "kanji": "毎日",
-    "part_of_speech": "noun",
-    "subclass": null,
     "conjucations": [
 
     ]
   },
   {
-    "english": "to go home",
-    "phonetic": "かえる",
-    "kanji": "帰る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
+    "english": "grandchild",
+    "phonetic": "まご",
+    "kanji": "孫",
+    "part_of_speech": "noun",
+    "subclass": null,
     "conjugations": [
 
     ]
   },
   {
-    "english": "wandering; aimlessly",
-    "phonetic": "ぶらぶら",
-    "kanji": null,
-    "part_of_speech": "adverb",
-    "subclass": null,
+    "english": "below",
+    "phonetic": "した",
+    "kanji": "下",
+    "part_of_speech": "noun",
+    "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "exam",
-    "phonetic": "しけん",
-    "kanji": "試験",
+    "english": "pike",
+    "phonetic": "さんま",
+    "kanji": "秋刀魚",
     "part_of_speech": "noun",
     "subclass": null,
     "conjugations": [
@@ -310,68 +110,38 @@
     ]
   },
   {
-    "english": "sardine",
-    "phonetic": "いわし",
-    "kanji": "鰯",
+    "english": "sentence",
+    "phonetic": "ブン",
+    "kanji": "文",
     "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "thigh",
-    "phonetic": "もも",
-    "kanji": "腿",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "eagle",
-    "phonetic": "わし",
-    "kanji": "鷲",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "firefly",
-    "phonetic": "ホタル",
-    "kanji": "蛍",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "wife",
-    "phonetic": "つま",
-    "kanji": "妻",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "study",
-    "phonetic": "べんきょう",
-    "kanji": "勉強",
-    "part_of_speech": "noun",
-    "subclass": null,
+    "subclass": "",
     "conjucations": [
 
     ]
   },
   {
-    "english": "not very neg",
-    "phonetic": "あんまり",
+    "english": "competition",
+    "phonetic": "きょうそう",
+    "kanji": "競争",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "rain",
+    "phonetic": "あめ",
+    "kanji": "雨",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "pretty; clean",
+    "phonetic": "きれい",
     "kanji": null,
     "part_of_speech": "adjective",
     "subclass": "na-adjective",
@@ -380,61 +150,11 @@
     ]
   },
   {
-    "english": "to knead",
-    "phonetic": "ねる",
-    "kanji": "練る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to wake; to occur",
-    "phonetic": "おきる",
-    "kanji": "起きる",
-    "part_of_speech": "verb",
-    "subclass": "ru-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "earthworm",
-    "phonetic": "ミミズ",
-    "kanji": "蚯蚓",
+    "english": "butterfly",
+    "phonetic": "ちょう",
+    "kanji": "蝶",
     "part_of_speech": "noun",
     "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to interrupt",
-    "phonetic": "さえぎる",
-    "kanji": "遮る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "brown",
-    "phonetic": "ちゃいろ",
-    "kanji": "茶色",
-    "part_of_speech": "noun",
-    "subclass": null,
-    "conjugations": [
-
-    ]
-  },
-  {
-    "english": "to go; to come",
-    "phonetic": "まいる",
-    "kanji": "参る",
-    "part_of_speech": "verb",
-    "subclass": "u-verb",
     "conjugations": [
 
     ]
@@ -450,11 +170,41 @@
     ]
   },
   {
-    "english": "likable",
-    "phonetic": "すき",
-    "kanji": "好き",
-    "part_of_speech": "adjective",
-    "subclass": "na-adjective",
+    "english": "day counter",
+    "phonetic": "にち",
+    "kanji": "日",
+    "part_of_speech": "noun",
+    "subclass": "",
+    "conjucations": [
+
+    ]
+  },
+  {
+    "english": "nail",
+    "phonetic": "つめ",
+    "kanji": "爪",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "clear weather",
+    "phonetic": "はれ",
+    "kanji": "晴れ",
+    "part_of_speech": "noun",
+    "subclass": null,
+    "conjugations": [
+
+    ]
+  },
+  {
+    "english": "to sleep",
+    "phonetic": "ねる",
+    "kanji": "寝る",
+    "part_of_speech": "verb",
+    "subclass": "ru-verb",
     "conjugations": [
 
     ]
