@@ -6,6 +6,7 @@ require './word'
 
 word_list_name = nil
 activity = nil
+max_words = nil
 
 OptionParser.new do |opts|
   opts.banner = "Usage: .rb [options]"
@@ -16,6 +17,10 @@ OptionParser.new do |opts|
 
   opts.on('-w', '--wordlist WORDLIST', 'Word list file name') do |a|
     word_list_name = a
+  end
+
+  opts.on('-m', '--maxwords MAXWORDS', 'Maximum number of words to test') do |a|
+    max_words = a.to_i
   end
 
   opts.on('-h', '--help', 'Help') do
@@ -34,8 +39,11 @@ end
 
 @incorrect = []
 
+word_list = read_word_list
+word_list = word_list.sample(max_words) if max_words
+
 [:en_ja_translation, :ja_en_translation].each do |exam_direction|
-  exam = Exam.new(exam_direction, activity, read_word_list)
+  exam = Exam.new(exam_direction, activity, word_list)
   exam_incorrect = exam.run
   @incorrect.concat(exam_incorrect)
 end
